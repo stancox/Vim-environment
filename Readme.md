@@ -25,8 +25,7 @@ Who's inside?
 
 * molokai
 * Mustang
-* twilight
-* railscasts
+* vibratink
 
 ###Amendments:
 
@@ -40,6 +39,9 @@ Who's inside?
 * <*ctrl*>+arrows to resize current window
 * support 8-color terminals
 * current line highlight
+
+###Hotkeys
+<Ctrl+n> - NERDTreeToggle
 
 -------------------------
 Version 1.5 (31 march 2012)
