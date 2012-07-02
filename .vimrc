@@ -83,6 +83,9 @@ nmap <C-Right> <C-W>><C-W>>
 nmap <C-Up> <C-W>-<C-W>-
 nmap <C-Down> <C-W>+<C-W>+
 
+" NerdTree
+nmap <C-N> :NERDTreeToggle<CR>
+
 " Maximize and restore windows
 map <F5> :set noequalalways winminheight=0 winheight=9999 helpheight=9999 winminwidth=0 winwidth=9999<CR>
 map <F6> :set winheight=1 winwidth=1 helpheight& equalalways<CR>:wincmd =<CR>
